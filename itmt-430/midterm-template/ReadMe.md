@@ -8,7 +8,8 @@
 In sprint one we had to find a project that we felt a team of three could accomplish without any of us having serious coding experience. One of my IPRO’s was a website that matched consumers with a products they needed that were made in the USA. I thought if we did the Ride Sharing option it would be very similar in the matching structure while using database. So we drew up a rough draft / diagram on the website based on interfaces that made sense to us. We wanted it to be as simple as possible. You click a location on a map and it gives you a list of people that also chose that location. From the first assignment I thought open connect or AWS could be options but it was too complicated and we went with FireBase Instead. For sprint 1 all three of us were charge of coming up with a flow chart depicting the functionality of the website. We then took all three of our designs and came up with one that took the best parts of each others. As shown in the first Trello board accomplishment. Ken put together the final one that is in our sprint one slide show. I then was in charge of coming up with a first draft of the map selection process. I went with the spoke design on a map of the chicago and area. I used a photo editing to roughly put the spokes on and used a screenshot from google maps for the first design. I took major roadways and public transportation into account. Ken and I put then powerpoint together.
 
 1. I created the map design as tasked. I did my part in the 
-1. Trello Card(s) that shows the completed artifact (screen shot of card)  
+1. 
+![Trello Card](images/1.png "Trello")
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
 
