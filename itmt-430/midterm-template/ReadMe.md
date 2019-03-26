@@ -10,6 +10,8 @@ In sprint one we had to find a project that we felt a team of three could accomp
 
 1. I created the map design as tasked. I did my part in the 
 1. 
+![1](images/1.jpg "trello1")
+![22](images/22.jpg "trello2")
 <img src="images/1.jpeg">
 <img src="images/22.jpeg">
 1. Github code commits
@@ -20,8 +22,9 @@ In sprint one we had to find a project that we felt a team of three could accomp
 1. I slightly redefined the mapping process to include north and side coordinates in hopes of making the matching process more precise. I also came up with the concept of Travel Buddy rather than just a way to car pool because of how many students take public transportation to campus. This would make it useful to more than just people looking to drive to campus. It would offer a safer / more convenient way to travel for ANY commuter student coming to IIT. I borrowed a map that broke the chicagoland area into regional sections that are easily defined by the user. I have limited experience in graphic design so the spoke making process took a long time to make and to be honest, It wasn’t very pretty but the sections were determined by a more logical 7-10 mile distance. Mileage of sections depended on where you lived on the lap based on major roadways. I didn’t want somebody matching with somebody that would make them get off the expressway to pick them up. That would not make any sense. Ken and I put then powerpoint together for our class presentation. 
 
 1. Correlate the personal sprint report with completed goals stated in the sprint report
-1. <img src="images/3.jpeg">
-. <img src="images/2.jpeg">
+![3](images/3.jpg "trello3")
+![22](images/22.jpg "trello4")
+
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
 
