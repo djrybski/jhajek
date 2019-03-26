@@ -27,6 +27,7 @@ https://github.com/djrybski/2019-team-10f/commits/master?before=b076098b21c4db8c
 3) Explore the possibility of using the google api to aid in the user experience.
 I could not find a way to get the APi to work with what we were doing. Ken and I got a nice pseudo code put together with Reshma. We put our heads together and all designed a interface and used the best parts of each one to come up with the best possible design. I was not responsible for number two but it fit in with us putting together a logical interface mapping out what we individually thought was best in our own flow charts.
 
+![3]jhajek/itmt-430/images/1.jpg
 ![3](djrybski/jhajek/itmt-430/images/3.jpg "trello3")
 ![22](images/22.jpg "trello4")
 
