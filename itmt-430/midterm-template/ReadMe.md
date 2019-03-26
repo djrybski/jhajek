@@ -16,7 +16,7 @@ In sprint one we had to find a project that we felt a team of three could accomp
 <img src="images/22.jpeg">
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
-
+https://github.com/djrybski/2019-team-10f/commits/master?before=b076098b21c4db8cd1adb12df8c71e29da46702b+35
 ### Sprint 2
 
 1. I slightly redefined the mapping process to include north and side coordinates in hopes of making the matching process more precise. I also came up with the concept of Travel Buddy rather than just a way to car pool because of how many students take public transportation to campus. This would make it useful to more than just people looking to drive to campus. It would offer a safer / more convenient way to travel for ANY commuter student coming to IIT. I borrowed a map that broke the chicagoland area into regional sections that are easily defined by the user. I have limited experience in graphic design so the spoke making process took a long time to make and to be honest, It wasn’t very pretty but the sections were determined by a more logical 7-10 mile distance. Mileage of sections depended on where you lived on the lap based on major roadways. I didn’t want somebody matching with somebody that would make them get off the expressway to pick them up. That would not make any sense. Ken and I put then powerpoint together for our class presentation. 
@@ -27,6 +27,8 @@ In sprint one we had to find a project that we felt a team of three could accomp
 
 1. Github code commits
     1) Under the History tab in GitHub you will see the repo commit history and each commit has a SHA-1 hash, supply this URL
+
+https://github.com/djrybski/2019-team-10f/commits/master?before=b076098b21c4db8cd1adb12df8c71e29da46702b+35
 
 ### Sprint 3
 
