@@ -10,7 +10,7 @@ In sprint one we had to find a project that we felt a team of three could accomp
 
 1. I created the map design as tasked. I did my part in the 
 1. 
-![1]jhajek/itmt-430/images/1.jpg "trello1")
+![1](jhajek/itmt-430/images/1.jpg "trello1")
 
 ![22](jhajek/itmt-430/images/22.jpg "trello2")
 
