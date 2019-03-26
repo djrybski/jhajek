@@ -10,8 +10,8 @@ In sprint one we had to find a project that we felt a team of three could accomp
 
 1. I created the map design as tasked. I did my part in the 
 1. 
-![1](images/1.jpg "trello1")
-![22](images/22.jpg "trello2")
+![1](jhejak/images/1.jpg "trello1")
+![22](jhejak/images/22.jpg "trello2")
 <img src="images/1.jpeg">
 <img src="images/22.jpeg">
 1. Github code commits
