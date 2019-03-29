@@ -10,7 +10,7 @@ In sprint one we had to find a project that we felt a team of three could accomp
 
 1. I created the map design as tasked. I did my part in the overall design of the sprint process. For sprint 1 all three of us were charge of coming up with a flow chart depicting the functionality of the website. We then took all three of our designs and came up with one that took the best parts of each others. As shown in the first Trello board accomplishment.
 1. 
-![1](images/1.jpg "trello1")
+![1](images/1.JPG "trello1")
 
 ![22](images/22.jpg "trello2")
 
